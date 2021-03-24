@@ -2,7 +2,7 @@
 
 Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
 
-[Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/how-to-use-ibm-cloud-gracefully-for-free.html)
+[Read the details in my blog (in Chinese) | Chinese Course](https://p3terx.com/archives/how-to-use-ibm-cloud-gracefully-for-free.html)
 
 ## Usage
 
